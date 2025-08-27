@@ -2,4 +2,5 @@
 Umschulung Fachinformatiker Anwendungsentwicklung "Sommer 2025"
 
 20250827 
-Hausaufgabe: Inhalte meines Umschulungsberufs als Mindmap
+Hausaufgabe: Inhalte unseres Umschulungsberufs als Mindmap.
+Mehrere Lösungsansätze,
